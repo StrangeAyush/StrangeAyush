@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StrangeAyush
 - 👀 I’m interested in computer programming and cyber security
-- 🌱 I’m currently learning both of them
+- 🌱 I’m currently learning computer programming
 - 💞️ I’m looking to collaborate on projects related to these technologies so i could learn more about them
 - 📫 my mailing address is garkotiayush5@gmail.com
 
